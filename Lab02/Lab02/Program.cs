@@ -11,7 +11,7 @@ namespace Lab02
             Employee employee_3 = new Employee("Adam", 47, Position.SoftwareEngineer);
 
             Person employee_4 = new Employee("Stephan", 34, Position.SoftwareEngineer);
-
+            Person empployee_5 = new Employee("twoj starty", 60, Position.HR);
 
             Company company = new Company("MyCompany");
 
