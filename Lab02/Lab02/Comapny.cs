@@ -20,6 +20,7 @@ internal enum Position
 {
     ScrumMaster,
     SoftwareEngineer,
+    ChiefExecutiveOfficer,
 }
 
 internal class Employee : Person
